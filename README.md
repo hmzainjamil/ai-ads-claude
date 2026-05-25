@@ -18,6 +18,38 @@
 
 ---
 
+## CONCEPTS
+
+| Concept | Description |
+|---|---|
+| **Ads** | Core ads capability |
+| **Claude** | Core claude capability |
+| **Automation** | Core automation capability |
+| **Creative** | Core creative capability |
+| **Testing** | Core testing capability |
+| **Optimization** | Core optimization capability |
+| **Meta** | Core meta capability |
+| **Google** | Core google capability |
+
+---
+
+## 🔥 Hot Commands
+
+```bash
+# Activate
+claude --skill ai-ads-claude 'task'
+
+# Main workflow
+claude 'ads automation'
+```
+
+## ■ tip
+> Mention **ads** in your prompt to auto-activate this skill.
+
+---
+
+
+
 
 ---
 
